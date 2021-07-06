@@ -1,5 +1,4 @@
 # Network Printer Traffic Generator
-Python script to generate network traffic
 
 ## Requirements
 Scapy - https://pypi.org/project/scapy/
@@ -12,4 +11,4 @@ Scapy - https://pypi.org/project/scapy/
 5. Done!
 
 ### Interface preview
-![User Interface Image](https://github.com/0x4F776C/network-printer-traffic-generator/blob/main/PTG.png)
+![User Interface Image](https://github.com/0x4F776C/Network-Printer-Traffic-Generator/blob/main/PTG.png)
